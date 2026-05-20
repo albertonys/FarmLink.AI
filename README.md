@@ -103,6 +103,10 @@ FarmLink AI depends on several categories of data.
 
 # AI Techniques
 
+<p align="center">
+  <img src="images/ai-system.png" width="95%">
+</p>
+
 ## 1. Recommendation Systems
 AI matches buyers with nearby farmers based on:
 - Product availability
