@@ -5,7 +5,7 @@
   <img src="images/banner.png" width="100%">
 </p>
 
-## Overview
+## Summary
 
 FarmLink.AI is an AI-powered digital platform designed to connect local farmers directly with buyers such as households, restaurants, supermarkets, food processors, exporters, and retailers.
 
