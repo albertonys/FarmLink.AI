@@ -1,6 +1,9 @@
-![FarmLink AI Banner](images/banner.png)
 # FarmLink.AI
 ### Intelligent Farmer-to-Buyer Marketplace Platform
+
+<p align="center">
+  <img src="images/banner.png" width="100%">
+</p>
 
 ## Overview
 
