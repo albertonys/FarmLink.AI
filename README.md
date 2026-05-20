@@ -43,7 +43,7 @@ These problems are common across:
 
 Smallholder farmers produce a significant portion of global food supply but remain digitally disconnected from buyers.
 
-# ilMotivation
+# Motivation
 
 Interactions with farming communities reveal that many farmers work extremely hard but still struggle to earn sustainable income due to:
 - Poor market access
@@ -186,7 +186,7 @@ Organizations can use data insights for:
 - Job creation
 - Improved rural livelihoods
 
-#de Challenges
+#Challenges
 
 ## 1. Internet Access
 Some farmers may lack:
